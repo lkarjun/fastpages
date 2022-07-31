@@ -1,6 +1,12 @@
 /*-----------------------------------*/
 /*--- IMPORT STYLES FOR FASTPAGES ---*/
-@import "minima/fastpages-styles";   
+@import "minima/fastpages-styles";  
+
+header{
+  a{
+    font-weight: bold;
+  }
+}
 
 
 
